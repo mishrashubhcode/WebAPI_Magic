@@ -9,6 +9,8 @@ namespace WebAPI_Project1.Controllers
 {
     public class AddTenController : ApiController
     {
+        /// Question 1
+        ///
         /// <summary>
         /// Adds ten to the specified number.
         /// </summary>
@@ -27,6 +29,9 @@ namespace WebAPI_Project1.Controllers
 
     public class SquareController : ApiController
     {
+
+        /// Question 2
+        ///
         /// <summary>
         /// Gets the square of the specified number.
         /// </summary>

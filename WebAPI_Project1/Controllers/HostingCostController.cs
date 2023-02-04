@@ -12,6 +12,9 @@ namespace WebAPI_Project1.Controllers
         private readonly double costPerFN = 5.50;
         private readonly double hstPercentage = 0.13;
 
+
+        /// Question 6
+        /// 
         /// <summary>
         /// Calculates the total hosting cost based on the number of days elapsed since the beginning of the hosting.
         /// </summary>

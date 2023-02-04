@@ -9,6 +9,9 @@ namespace WebAPI_Project1.Controllers
 {
     public class NumberMachineController : ApiController
     {
+
+        /// Question 5
+        ///
         /// <summary>
         /// Applies four mathematical operations to the input number in separate steps.
         /// </summary>

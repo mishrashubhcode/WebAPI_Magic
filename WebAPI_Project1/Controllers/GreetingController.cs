@@ -9,6 +9,8 @@ namespace WebAPI_Project1.Controllers
 {
     public class GreetingController : ApiController
     {
+        /// Question 3
+        ///
         /// <summary>
         /// Returns the greeting "Hello World!".
         /// </summary>
@@ -22,6 +24,8 @@ namespace WebAPI_Project1.Controllers
             return Ok("Hello World!");
         }
 
+        /// Question 4
+        ///
         /// <summary>
         /// Returns a greeting to the specified number of people.
         /// </summary>
