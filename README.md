@@ -6,7 +6,7 @@ WebAPI Magic is a powerful API that provides various endpoints for performing ca
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/mishrashubhcode/webapi-magic.git
+  git clone https://github.com/mishrashubhcode/webapi-magic.git
 
 
 2. Open the solution file (`WebAPIMagic.sln`) in Visual Studio or your preferred IDE.
